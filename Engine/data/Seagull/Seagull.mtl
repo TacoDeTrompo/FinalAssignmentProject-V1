@@ -1,0 +1,57 @@
+# Blender MTL File: ''
+# Material Count: 5
+newmtl texture000.png_texture000.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.592260 0.545326 0.529752
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture000.png
+
+
+newmtl texture001.png_texture001.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.786701 0.789086 0.407478
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture001.png
+
+
+newmtl texture001.png_texture002.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.786701 0.789086 0.407478
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture002.png
+
+
+newmtl texture002.png_texture001.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.591488 0.565305 0.744964
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture001.png
+
+
+newmtl texture002.png_texture002.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.591488 0.565305 0.744964
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture002.png
+
+
